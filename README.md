@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @twfreeman-per
 - 👀 I’m interested in data sovereignty
-- 🌱 I’m currently learning ML, Crypto, blockchain
+- 🌱 I’m currently learning ML, Crypto, blockchain, python & swift
 - 💞️ I’m looking to collaborate on ML, Crypto, blockchain
 - 📫 How to reach me ...wayne@publiceyesrisk.com
 
